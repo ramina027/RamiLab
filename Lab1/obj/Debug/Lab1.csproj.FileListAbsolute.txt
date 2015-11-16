@@ -1,0 +1,64 @@
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Users\pmi-144\Alieva A\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+H:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\Lab1\Lab1\obj\Debug\Lab1.pdb
+H:\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+H:\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+H:\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+H:\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+H:\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+H:\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+G:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+G:\Lab1\Lab1\bin\Debug\Lab1.exe
+G:\Lab1\Lab1\bin\Debug\Lab1.pdb
+G:\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+G:\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+G:\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+G:\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+G:\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+G:\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+G:\Lab1\Lab1\obj\Debug\Lab1.exe
+G:\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\Lab1\Lab1\obj\Debug\Lab1.pdb
+E:\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+E:\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+E:\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+F:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+F:\Lab1\Lab1\obj\Debug\Lab1.exe
+F:\Lab1\Lab1\obj\Debug\Lab1.pdb
+F:\Lab1\Lab1\bin\Debug\Lab1.exe
+F:\Lab1\Lab1\bin\Debug\Lab1.pdb
+F:\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+F:\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+F:\Lab1\Lab1\obj\Debug\Lab1.Form2.resources
+F:\Lab1\Lab1\obj\Debug\Lab1.Form3.resources
+F:\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+F:\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+G:\Lab1Rami\Lab1\bin\Debug\Lab1.exe.config
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.exe
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.pdb
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.Form1.resources
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.Form2.resources
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.Form3.resources
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+G:\Lab1Rami\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
